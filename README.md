@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ADONAI-16](https://github.com/ADONAI-16)  
 - 💬 Ask me about **Dart, Flutter, HTML, CSS, JavaScript, React Native, Git, GitHub, Clean Code, CLI apps**  
 - 📫 How to reach me **adonaifre16@gmail.com**  
-- ⚡ Fun fact: I code better when listening to coffee shop music 🎵  
+- ⚡ Fun fact: I code better when listening to jazz music 🎷 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
