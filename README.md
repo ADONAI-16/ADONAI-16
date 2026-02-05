@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leul</h1>
-<h3 align="center">Software Engineering student | Interested in Dart, Python, Web Development, and Problem-solving | Sharing my learning journey</h3>
+<h3 align="center">  Coding, learning, and vibing to jazz 🎷</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=adonai-16&label=Profile%20views&color=0e75b6&style=flat" alt="adonai-16" /> 
