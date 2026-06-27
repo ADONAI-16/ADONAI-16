@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a78,100:6a0dad&height=200&section=header&text=Leul%20Regassa&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%26%20Flutter%20Builder&descAlignY=58&descSize=20&descFontColor=ff6eb4" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a78,100:6a0dad&height=200&section=header&text=Leul%20Regassa&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%26%20Flutter%20Builder&descAlignY=58&descSize=20&descFontColor=ff6eb4" />
 
 ### 🎷 *"Clean code feels like a well-played jazz solo — nothing wasted, everything intentional."*
 
@@ -11,23 +11,11 @@
 
 ---
 
-<div align="center">
-
-## 🌌 The Studio Dashboard
-
----
-
-<div align="center">
-
-## 🌌 The Studio Dashboard
----
-
-<div align="center">
-
 ## 🌌 The Studio Dashboard
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### 🎷 Developer Snapshot
