@@ -1,14 +1,19 @@
 <div align="center">
 
 <!-- TOP WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a78,100:6a0dad&height=200&section=header&text=%5BYour%20Name%5D&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=%5BYour%20Role%20%7C%20e.g.%20Full-Stack%20Developer%5D&descAlignY=58&descSize=20&descFontColor=ff6eb4" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a78,100:6a0dad&height=200&section=header&text=Leul%20Regassa&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%26%20Flutter%20Builder&descAlignY=58&descSize=20&descFontColor=ff6eb4" alt="header" />
 
-### 🎷 *"Every great codebase has a rhythm — I write mine in jazz time."*
+### 🎷 *"Clean code feels like a well-played jazz solo — nothing wasted, everything intentional."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5C842&center=true&vCenter=true&width=600&lines=Clean+code+is+like+a+smooth+jazz+solo+%F0%9F%8E%B7;Every+bug+fixed+is+a+note+played+right+%F0%9F%8E%B9;Deep+work+%2B+Dark+mode+%3D+The+zone+%F0%9F%8C%8C;Currently+spinning+records+%26+shipping+features+%F0%9F%8E%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5C842&center=true&vCenter=true&width=600&lines=Writing+Python+%26+Flutter+apps+%F0%9F%92%BB;DSA+practice+sharpening+my+thinking+%F0%9F%A7%A0;Building+discipline+one+commit+at+a+time+%F0%9F%93%88;Late+night+coding+in+the+zone+%F0%9F%8C%99)](https://git.io/typing-svg)
 
 </div>
 
+---
+
+<div align="center">
+
+## 🌌 The Studio Dashboard
 ---
 
 <div align="center">
