@@ -20,62 +20,57 @@
 
 ### 🎷 Developer Snapshot
 
-```
+
 ┌─────────────────────────────────┐
-│  🎵  Name     : Leul Regassa     │
-│  💻  Role     : Software Developer (Student)     │
-│  📍  Based in : Addis Ababa, Ethiopia    │
-│  🎹  Vibe     : Late-Night Coder│
-│  🌙  Hours    : Nocturnal Dev   │
-│  📀  Status   : Open to Work    │
+│ 🎵 Name : Leul Regassa
+│ 💻 Role : Software Developer (Student)
+│ 📍 Based in : Addis Ababa, Ethiopia
+│ 🎹 Vibe : Late-Night Coder
+│ 🌙 Hours : Nocturnal Dev
+│ 📀 Status : Building in Public
 └─────────────────────────────────┘
-```
+
 
 **🎷 Currently Spinning:**
-• Smooth Jazz
-• Saxophone Jazz
-• Piano Jazz
+- Smooth Jazz  
+- Saxophone Jazz  
+- Piano Jazz  
 
 **📬 Reach Me:**
-```md
+
 [![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=gmail&logoColor=f5c842)](mailto:adonaifre16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-1a0533?style=for-the-badge&logo=linkedin&logoColor=ff6eb4)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-1a0533?style=for-the-badge&logo=firefox&logoColor=f5c842)](#)
-```
-
 
 </td>
+
 <td valign="top" width="50%">
 
 ### 🌌 Current Trajectory
 
-```
+
 ┌─────────────────────────────────┐
-│  🎸  Mastering  : Dart          │
-│  🥁  Practicing : Dsa (Python)  │
-│  🎼  Exploring  : Flutter       │
-│  🎺  Reading    : Official Dart Documentation  │
-│  🌱  Growing in : Open Source (Git &Github    │
+│ 🎸 Mastering : Dart
+│ 🥁 Practicing : DSA (Python)
+│ 🎼 Exploring : Flutter
+│ 🎺 Reading : Official Dart Documentation
+│ 🌱 Growing in : Open Source (Git & GitHub)
 └─────────────────────────────────┘
-```
 
-🎹 2026 Goals:
 
-- [ ] 🎷 Ship 1 real Flutter app (not tutorial-following, something you can show)
-- [ ] 🎵 Contribute to 5 open-source repos (start with small fixes: docs, bugs, beginner issues)
-- [x] 🎸 Complete 90 Days of Flutter (done — now the real work starts)
-- [ ] 🌌 Land a junior dev / internship role (replace “dream” with something you can actually attack)
-- [ ] 📀 Write 10 technical blog posts (DSA problems, Dart learning, and what you break/fix while building)
+### 🎹 2026 Goals
+
+- Ship 1 real Flutter app  
+- Contribute to 5 OSS repos  
+- Write 10 technical blog posts  
+- Land a junior dev / internship role  
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🎹 Builder’s Toolkit
 
@@ -111,46 +106,25 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-1a0533?style=for-the-badge&logo=visualstudiocode&logoColor=ff6eb4)](https://code.visualstudio.com/)
 [![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=f5c842)](https://www.linux.org/)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## ✦ Recent Highlights
 
-> ✦ **90 Days of Flutter** — Documenting consistent progress in Dart & Flutter while building small apps and strengthening fundamentals.
->
-> ✦ **DSA Practice (Python)** — Solving structured problems in data structures and algorithms to build strong problem-solving foundations.
->
-> ✦ **GitHub Growth Phase** — Actively building consistency with daily commits, clean repositories, and improving project structure habits.
->
-> ✦ **Learning in Progress** — Exploring open-source contribution workflow (issues, PRs, and collaboration basics).
->
-> ✦ **Technical Writing (Coming Soon)** — Preparing to publish first structured posts on learning journey and problem-solving notes.
+> ✦ **90 Days of Flutter** — Documenting consistent progress in Dart & Flutter while building small apps.  
+> ✦ **DSA Practice (Python)** — Strengthening problem-solving skills through structured algorithms.  
+> ✦ **GitHub Growth Phase** — Building consistency with daily commits and clean repositories.  
+> ✦ **Learning Open Source** — Exploring PRs, issues, and collaboration workflow.  
+> ✦ **Technical Writing (Coming Soon)** — Preparing first structured posts on learning journey.  
 
 ---
-
-<div align="center">
 
 ## 🎵 GitHub Analytics
 
-<br/>
-
-<!-- Main Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0019&title_color=f5c842&icon_color=ff6eb4&text_color=c9b3e8&ring_color=6a0dad" />
 
-<!-- Streak -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=synthwave&hide_border=true&background=0d0019&ring=6a0dad&fire=ff6eb4&currStreakLabel=f5c842&sideLabels=c9b3e8&dates=c9b3e8&currStreakNum=f5c842&sideNums=ff6eb4" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=0d0019&color=f5c842&line=6a0dad&point=ff6eb4&area=true&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=synthwave&hide_border=true&background=0d0019" />
 
 ---
-
-<div align="center">
 
 ## 🎷 Profile Visitors
 
@@ -160,7 +134,4 @@
 
 > "Good code doesn’t rush. It lands clean."
 
-<br/>
-
-<!-- BOTTOM WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:3d1a78,100:1a0533&height=120&section=footer" alt="footer" />
+</div>
