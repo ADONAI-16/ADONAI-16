@@ -1,47 +1,167 @@
-<h1 align="center">Hi 👋, I'm Leul</h1>
-<h3 align="center">  Coding, learning, and vibing to jazz 🎷</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=adonai-16&label=Profile%20views&color=0e75b6&style=flat" alt="adonai-16" /> 
-</p>
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a78,100:6a0dad&height=200&section=header&text=%5BYour%20Name%5D&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=%5BYour%20Role%20%7C%20e.g.%20Full-Stack%20Developer%5D&descAlignY=58&descSize=20&descFontColor=ff6eb4" alt="header" />
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adonai-16" alt="adonai-16" />
-  </a> 
-</p>
+### 🎷 *"Every great codebase has a rhythm — I write mine in jazz time."*
 
-- 🌱 I’m currently learning **Flutter, Dart, AI development, Clean Code practices**  
-- 👯 I’m looking to collaborate on [Open-source Dart/Flutter projects](https://github.com/ADONAI-16)  
-- 🤝 I’m looking for help with **Flutter advanced widgets & state management**  
-- 👨‍💻 All of my projects are available at [https://github.com/ADONAI-16](https://github.com/ADONAI-16)  
-- 💬 Ask me about **Dart, Flutter, HTML, CSS, JavaScript, React Native, Git, GitHub, Clean Code, CLI apps**  
-- 📫 How to reach me **adonaifre16@gmail.com**  
-- ⚡ Fun fact: I code better when listening to jazz music 🎷 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F5C842&center=true&vCenter=true&width=600&lines=Clean+code+is+like+a+smooth+jazz+solo+%F0%9F%8E%B7;Every+bug+fixed+is+a+note+played+right+%F0%9F%8E%B9;Deep+work+%2B+Dark+mode+%3D+The+zone+%F0%9F%8C%8C;Currently+spinning+records+%26+shipping+features+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/adonai-16" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/a.d.o.n.a.i._" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@leuladonai" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-</p>
+---
 
+<div align="center">
+
+## 🌌 The Studio Dashboard
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎷 Developer Snapshot
+
+```
+┌─────────────────────────────────┐
+│  🎵  Name     : Leul Regassa     │
+│  💻  Role     : Software Developer (Student)     │
+│  📍  Based in : Addis Ababa, Ethiopia    │
+│  🎹  Vibe     : Late-Night Coder│
+│  🌙  Hours    : Nocturnal Dev   │
+│  📀  Status   : Open to Work    │
+└─────────────────────────────────┘
+```
+
+**🎷 Currently Spinning:**
+• Smooth Jazz
+• Saxophone Jazz
+• Piano Jazz
+
+**📬 Reach Me:**
+```md
+[![Email](https://img.shields.io/badge/Email-1a0533?style=for-the-badge&logo=gmail&logoColor=f5c842)](mailto:adonaifre16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-1a0533?style=for-the-badge&logo=linkedin&logoColor=ff6eb4)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-1a0533?style=for-the-badge&logo=firefox&logoColor=f5c842)](#)
+```
+
+
+</td>
+<td valign="top" width="50%">
+
+### 🌌 Current Trajectory
+
+```
+┌─────────────────────────────────┐
+│  🎸  Mastering  : Dart          │
+│  🥁  Practicing : Dsa (Python)  │
+│  🎼  Exploring  : Flutter       │
+│  🎺  Reading    : Official Dart Documentation  │
+│  🌱  Growing in : Open Source (Git &Github    │
+└─────────────────────────────────┘
+```
+
+🎹 2026 Goals:
+
+- [ ] 🎷 Ship 1 real Flutter app (not tutorial-following, something you can show)
+- [ ] 🎵 Contribute to 5 open-source repos (start with small fixes: docs, bugs, beginner issues)
+- [x] 🎸 Complete 90 Days of Flutter (done — now the real work starts)
+- [ ] 🌌 Land a junior dev / internship role (replace “dream” with something you can actually attack)
+- [ ] 📀 Write 10 technical blog posts (DSA problems, Dart learning, and what you break/fix while building)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎹 Builder’s Toolkit
+
+### 🎵 Core Stack (Currently Using)
+
+[![Python](https://img.shields.io/badge/Python-1a0533?style=for-the-badge&logo=python&logoColor=f5c842)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-1a0533?style=for-the-badge&logo=dart&logoColor=ff6eb4)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-1a0533?style=for-the-badge&logo=flutter&logoColor=f5c842)](https://flutter.dev/)
+
+### 🥁 Problem Solving
+
+[![Data Structures](https://img.shields.io/badge/Data_Structures-1a0533?style=for-the-badge&logo=python&logoColor=ff6eb4)](#)
+[![Algorithms](https://img.shields.io/badge/Algorithms-1a0533?style=for-the-badge&logo=python&logoColor=f5c842)](#)
+
+### 🎹 Familiar / Exploring
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=for-the-badge&logo=javascript&logoColor=f5c842)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-1a0533?style=for-the-badge&logo=html5&logoColor=ff6eb4)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1a0533?style=for-the-badge&logo=css3&logoColor=f5c842)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### 🥁 Backend & Database
+
+[![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=for-the-badge&logo=nodedotjs&logoColor=f5c842)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=for-the-badge&logo=postgresql&logoColor=ff6eb4)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=for-the-badge&logo=mongodb&logoColor=f5c842)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-1a0533?style=for-the-badge&logo=firebase&logoColor=ff6eb4)](https://firebase.google.com/)
+
+### 🎺 DevOps & Tools
+
+[![Docker](https://img.shields.io/badge/Docker-1a0533?style=for-the-badge&logo=docker&logoColor=f5c842)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-1a0533?style=for-the-badge&logo=git&logoColor=ff6eb4)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0533?style=for-the-badge&logo=github&logoColor=f5c842)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1a0533?style=for-the-badge&logo=visualstudiocode&logoColor=ff6eb4)](https://code.visualstudio.com/)
+[![Linux](https://img.shields.io/badge/Linux-1a0533?style=for-the-badge&logo=linux&logoColor=f5c842)](https://www.linux.org/)
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ Recent Highlights
+
+> ✦ **90 Days of Flutter** — Documenting consistent progress in Dart & Flutter while building small apps and strengthening fundamentals.
+>
+> ✦ **DSA Practice (Python)** — Solving structured problems in data structures and algorithms to build strong problem-solving foundations.
+>
+> ✦ **GitHub Growth Phase** — Actively building consistency with daily commits, clean repositories, and improving project structure habits.
+>
+> ✦ **Learning in Progress** — Exploring open-source contribution workflow (issues, PRs, and collaboration basics).
+>
+> ✦ **Technical Writing (Coming Soon)** — Preparing to publish first structured posts on learning journey and problem-solving notes.
+
+---
+
+<div align="center">
+
+## 🎵 GitHub Analytics
+
+<br/>
+
+<!-- Main Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0019&title_color=f5c842&icon_color=ff6eb4&text_color=c9b3e8&ring_color=6a0dad" />
+
+<!-- Streak -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=synthwave&hide_border=true&background=0d0019&ring=6a0dad&fire=ff6eb4&currStreakLabel=f5c842&sideLabels=c9b3e8&dates=c9b3e8&currStreakNum=f5c842&sideNums=ff6eb4" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=0d0019&color=f5c842&line=6a0dad&point=ff6eb4&area=true&hide_border=true" />
+
+---
+
+<div align="center">
+
+## 🎷 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=6a0dad&style=for-the-badge&label=STUDIO+VISITORS)
+
+<br/>
+
+> "Good code doesn’t rush. It lands clean."
+
+<br/>
+
+<!-- BOTTOM WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:3d1a78,100:1a0533&height=120&section=footer" alt="footer" />
