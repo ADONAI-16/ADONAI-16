@@ -14,6 +14,12 @@
 <div align="center">
 
 ## 🌌 The Studio Dashboard
+
+---
+
+<div align="center">
+
+## 🌌 The Studio Dashboard
 ---
 
 <div align="center">
