@@ -1,69 +1,73 @@
 <div align="center">
 
-# Leul Regassa
-### Software Developer | Python • Flutter • DSA
+# 👋 Hi, I'm Leul Regassa
+
+Software Developer • Python • Flutter • DSA
+
+*"Clean code feels like a well-played jazz solo—nothing wasted, everything intentional."*
+
+[Typing SVG]
+
+[ Email ] [ GitHub ] [ LinkedIn ] [ Portfolio ]
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 Focused on Python, Flutter, and Data Structures & Algorithms  
-- 🧠 Learning by building and solving real problems  
-- 🌙 Late-night developer with consistent practice habits  
-- 🌍 Based in Ethiopia  
-- 🚀 Building projects and improving daily  
+I'm a software developer from Ethiopia passionate about building
+mobile applications with Flutter and strengthening my foundation
+through Data Structures & Algorithms.
 
+I enjoy turning ideas into clean, maintainable software and
+continuously improving through consistent learning and hands-on projects.
+
+Outside coding, you'll usually find me working with smooth jazz,
+saxophone, or piano playing in the background.
 ---
 
-## ⚡ Current Focus
+## 🚀 Current Focus
 
-- 🎸 Dart (Flutter Development)
-- 🥁 Data Structures & Algorithms (Python)
-- 🎼 Flutter UI & State Management
-- 🌱 Open-source contribution & Git workflow
-
----
-
-## 🎯 Goals
-
-- Build and ship real Flutter applications  
-- Contribute to open-source projects  
-- Improve problem-solving skills through DSA  
-- Land a junior developer / internship role  
-
+- 📱 Building Flutter applications
+- 🐍 Practicing Data Structures & Algorithms in Python
+- 📚 Reading the official Dart documentation
+- 🌱 Learning Open Source collaboration
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-- Python
-- Dart
-- JavaScript (basic)
+### Languages
 
-**Frameworks**
-- Flutter
-- React (learning)
+Python • Dart • JavaScript
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Linux
+### Frameworks
 
-**Databases**
-- Firebase
-- MongoDB
-- PostgreSQL
+Flutter
+
+### Databases
+
+Firebase • MongoDB • PostgreSQL
+
+### Tools
+
+Git • GitHub • Linux • VS Code
 
 ---
 
-## 📊 GitHub Stats
+---
+## ⭐ Featured Projects
+Project	Description
+📱 Flutter Notes	Clean Flutter app showcasing UI fundamentals
+🧠 Python DSA	Algorithms & Data Structures with explanations
+🎯 90 Days of Flutter	Daily learning journey documented on GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
+GitHub Stats
 
+Streak
+
+Top Languages
 ---
 
 ## 🎧 Currently Vibe Coding
@@ -82,4 +86,4 @@
 
 ---
 
-> "Clean code is not written fast. It is written right."
+> "Good code doesn't rush. It lands clean."
