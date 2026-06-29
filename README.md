@@ -53,7 +53,7 @@
 
 </div>
 
-<h3 align="center" style="color:#a855f7;">🛠️ Technical builder</h3>
+<h3 align="center" style="color:#a855f7;">🛠️ Technical Builder</h3>
 
 <div align="center">
 
@@ -61,8 +61,16 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,python&theme=dark&perline=10" alt="mobile-core" />
   <br/>
 
+  <p><sub><b style="color:#c084fc;">FRONTEND EXPLORATION</b></sub></p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark&perline=10" alt="frontend" />
+  <br/>
+
+  <p><sub><b style="color:#c084fc;">DATA & DATABASES</b></sub></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=10" alt="databases" />
+  <br/>
+
   <p><sub><b style="color:#c084fc;">PROGRAMMING FUNDAMENTALS</b></sub></p>
-  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark&perline=10" alt="fundamentals" />
+  <img src="https://skillicons.dev/icons?i=cpp,python&theme=dark&perline=10" alt="fundamentals" />
   <br/>
 
   <p><sub><b style="color:#c084fc;">TOOLS & WORKFLOW</b></sub></p>
