@@ -1,89 +1,103 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=280&section=header&text=Lule%20Regassa&fontSize=75&fontAlign=50&fontAlignY=42&fontColor=a855f7&desc=Flutter%20Developer%20%7C%20Python%20%7C%20DSA%20Learner&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Hero banner" />
 
-# 👋 Hi, I'm Leul Regassa
+  <p align="center">
+    <a href="mailto:yourmail@example.com">
+      <img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
+    </a>
+    <a href="https://github.com/YOUR_USERNAME">
+      <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/">
+      <img src="https://img.shields.io/badge/LeetCode-0a0a0f?style=for-the-badge&logo=leetcode&logoColor=a855f7" alt="LeetCode" />
+    </a>
+    <a href="https://instagram.com/">
+      <img src="https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram" />
+    </a>
+  </p>
 
-Software Developer • Python • Flutter • DSA
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+Flutter+mobile+applications;Practicing+Data+Structures+%26+Algorithms;Learning+clean+software+architecture;Turning+ideas+into+real+apps+with+code" alt="Typing intro" />
+</div>
 
-*"Clean code feels like a well-played jazz solo—nothing wasted, everything intentional."*
+<br/>
+<div align="center">
 
-[Typing SVG]
+<table style="width:100%; border:none; border-collapse:separate; border-spacing:15px;">
 
-[ Email ] [ GitHub ] [ LinkedIn ] [ Portfolio ]
+<tr>
+
+<td width="50%" valign="top" style="border-radius:12px; background:#0a0a0f; padding:15px;">
+
+<h3 align="center">🎯 Developer Snapshot</h3>
+
+- **Focus:** Flutter mobile apps & UI development  
+- **Stack:** Dart, Flutter, Python, Git & GitHub  
+- **Learning:** DSA in Python + Flutter fundamentals  
+- **Base:** Ethiopia — Remote-friendly  
+
+</td>
+
+<td width="50%" valign="top" style="border-radius:12px; background:#0a0a0f; padding:15px;">
+
+<h3 align="center">⚡ Current Trajectory</h3>
+
+- 📦 **Shipping:** Daily Flutter practice (90-Day GitHub Challenge)  
+- 🌱 **Exploring:** Widgets, layouts & UI patterns  
+- 🧠 **Learning:** Algorithms + clean coding habits  
+- 🤝 **Open to:** Collaboration & open-source growth  
+
+</td>
+
+</tr>
+</table>
 
 </div>
----
 
-## 👨‍💻 About Me
+<h3 align="center" style="color:#a855f7;">🛠️ Technical builder</h3>
 
-I'm a software developer from Ethiopia passionate about building
-mobile applications with Flutter and strengthening my foundation
-through Data Structures & Algorithms.
+<div align="center">
 
-I enjoy turning ideas into clean, maintainable software and
-continuously improving through consistent learning and hands-on projects.
+  <p><sub><b style="color:#c084fc;">MOBILE & CORE DEVELOPMENT</b></sub></p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,python&theme=dark&perline=10" alt="mobile-core" />
+  <br/>
 
-Outside coding, you'll usually find me working with smooth jazz,
-saxophone, or piano playing in the background.
----
+  <p><sub><b style="color:#c084fc;">PROGRAMMING FUNDAMENTALS</b></sub></p>
+  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark&perline=10" alt="fundamentals" />
+  <br/>
 
-## 🚀 Current Focus
+  <p><sub><b style="color:#c084fc;">TOOLS & WORKFLOW</b></sub></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark&perline=10" alt="tools" />
 
-- 📱 Building Flutter applications
-- 🐍 Practicing Data Structures & Algorithms in Python
-- 📚 Reading the official Dart documentation
-- 🌱 Learning Open Source collaboration
----
+</div>
 
-## 🛠 Tech Stack
+<br/>
 
-### Languages
+<h3 align="center"> Recent Highlights</h3>
 
-Python • Dart • JavaScript
+> ✦ **Flutter Learning Projects:** Building small UI-focused apps while strengthening core Flutter concepts and widget composition.  
+> ✦ **DSA Progress (Python):** Practicing data structures and algorithms step-by-step to improve problem-solving consistency.  
+> ✦ **90-Day GitHub Challenge:** Maintaining daily commits to build discipline, consistency, and real development momentum.  
+<br/>
 
-### Frameworks
+<h3 align="center">📊 GitHub Analytics</h3>
 
-Flutter
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=a855f7&text_color=cad3e0&rank_icon=github" height="192" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=cad3e0" height="192" alt="langs" />
+</div>
 
-### Databases
+<br/>
 
-Firebase • MongoDB • PostgreSQL
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0a0a0f&sideNums=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=cad3e0" alt="streak" />
+</div>
 
-### Tools
+<br/>
 
-Git • GitHub • Linux • VS Code
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0a0f&color=a855f7&line=a855f7&point=ffffff" width="100%" alt="activity graph" />
+</div>
 
----
-
----
-## ⭐ Featured Projects
-Project	Description
-📱 Flutter Notes	Clean Flutter app showcasing UI fundamentals
-🧠 Python DSA	Algorithms & Data Structures with explanations
-🎯 90 Days of Flutter	Daily learning journey documented on GitHub
-
----
-
-GitHub Stats
-
-Streak
-
-Top Languages
----
-
-## 🎧 Currently Vibe Coding
-
-- Smooth Jazz  
-- Saxophone Jazz  
-- Piano Jazz  
-
----
-
-## 📬 Contact
-
-- 📧 Email: adonaifre16@gmail.com  
-- 💼 LinkedIn: Coming soon  
-- 🌐 Portfolio: Coming soon  
-
----
-
-> "Good code doesn't rush. It lands clean."
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=footer&animation=twinkling" width="100%" alt="footer" />
+</div>
