@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=280&section=header&text=Lule%20Regassa&fontSize=75&fontAlign=50&fontAlignY=42&fontColor=a855f7&desc=Flutter%20Developer%20%7C%20Python%20%7C%20DSA%20Learner&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=280&section=header&text=Leul%20Regassa&fontSize=75&fontAlign=50&fontAlignY=42&fontColor=a855f7&desc=Flutter%20Developer%20%7C%20Python%20%7C%20DSA%20Learner&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Hero banner" />
 
   <p align="center">
-    <a href="mailto:yourmail@example.com">
+    <a href="mailto:adonaifre16@example.com">
       <img src="https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=a855f7" alt="Email" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/Adonai-16">
       <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=a855f7" alt="GitHub" />
     </a>
-    <a href="https://leetcode.com/">
+    <a href="https://leetcode.com/leulDev">
       <img src="https://img.shields.io/badge/LeetCode-0a0a0f?style=for-the-badge&logo=leetcode&logoColor=a855f7" alt="LeetCode" />
     </a>
-    <a href="https://instagram.com/">
+    <a href="https://instagram.com/a.d.o.n.a.i._">
       <img src="https://img.shields.io/badge/Instagram-0a0a0f?style=for-the-badge&logo=instagram&logoColor=a855f7" alt="Instagram" />
     </a>
   </p>
@@ -82,20 +82,20 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=a855f7&text_color=cad3e0&rank_icon=github" height="192" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=cad3e0" height="192" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADONAI-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&icon_color=a855f7&text_color=cad3e0&rank_icon=github" height="192" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADONAI-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=cad3e0" height="192" alt="langs" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0a0a0f&sideNums=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=cad3e0" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=ADONAI-16&theme=tokyonight&hide_border=true&background=0a0a0f&sideNums=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=cad3e0" alt="streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0a0f&color=a855f7&line=a855f7&point=ffffff" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADONAI-16&theme=tokyo-night&hide_border=true&area=true&bg_color=0a0a0f&color=a855f7&line=a855f7&point=ffffff" width="100%" alt="activity graph" />
 </div>
 
 <div align="center">
